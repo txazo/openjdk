@@ -79,7 +79,9 @@
                             <sources>
                                 <source>${basedir}/jdk/src/macosx/java</source>
                                 <source>${basedir}/jdk/src/main/java</source>
+                                <source>${basedir}/jdk/src/solaris/java</source>
                                 <source>${basedir}/langtools/src/main/java</source>
+                                <source>${basedir}/langtools/src/test/java</source>
                             </sources>
                         </configuration>
                     </execution>
